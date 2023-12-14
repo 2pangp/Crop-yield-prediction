@@ -1,2 +1,2 @@
-# Crop-yield-prediction
+# Crop yield prediction
 MSc Research Project
